@@ -34,7 +34,7 @@ Let's Learn Qt From Basic and very Efficient Way!!!!!!!!!!!!!!!!!!!!
 
 Happy Learning :slightly_smiling_face:
 
-## Contribution Guidelines🏗
+## Introduction To Qt🏗
 
 Are we missing any of your questions, which you think you can add to it❓ We invite you to contribute to this project and make it better.
 To start contributing, follow the guidelines below:
@@ -110,7 +110,7 @@ git push -u origin <your_branch_name>
 
 <p align="center"><img src="https://media.giphy.com/media/5mCQOcUfywmyI/giphy.gif" width=35%></p>
 
-In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
+In case of any help, please free to contact [us](rajdalsaniya1995@gmail.com) via email !
 
 ## 📌Till Then
 
