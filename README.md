@@ -1,142 +1,187 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# 💻Introduction QtCore Basic🏆🏅
 
+![ALGO_ADDICT](https://socialify.git.ci/codeaholic-shub/ALGO-ADDICT/image?description=1&descriptionEditable=Put%20Your%20Thoughts%20into%20code%F0%9F%92%99&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
+🎯 Containing all popular competitive programming and interview questions.<br>
+🎯 Main aim for those students who are preparing for coding interviews.<br>
+🎯 If you practice coding on online platform , you can contribute to this repo.<br>
 
-<!-- PROJECT LOGO -->
-<br />
+Are you a Newbie in programming and want to dive deep into it?
+
+<p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
+
+Are you looking for some famous coding interview questions in which each and every code will teach you an important Concept?
+
+<p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
+
+Do you want to contribute to ALGO-ADDICT and showcase your programming skills through it?🤩
+
+<p align="center"><img src="https://media.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif" width = 40%></p>
+
+Then, You got here right!!
+
+# Overview
+
+The main aim of the project is for bringing all interview and Competitive programming question under one repo
+
+## Popular questions in
+
+- [Hackerank](https://www.hackerrank.com/)
+- [Codechef](https://www.codechef.com/)
+- [Codeforces](https://codeforces.com/)
+- [Leetcode](https://leetcode.com/)
+- [Gfg](https://www.geeksforgeeks.org/)
+- [Hackerearth](https://www.hackerearth.com/practice/)
+
+# Tech-Stack :
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)<br>
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)<br>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)<br>
+
+# Contribution is fun! :green_heart:
+
+In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
+
+Happy Submissions :slightly_smiling_face:
+
+## Contribution Guidelines🏗
+
+Are we missing any of your questions, which you think you can add to it❓ We invite you to contribute to this project and make it better.
+To start contributing, follow the guidelines below:
+
+**1.** Fork [this](https://github.com/codeaholic-shub/ALGO-ADDICT) repository.
+
+**2.** Clone your forked copy of the project.
+
+```
+git clone --depth 1 https://github.com/<your_username>/ALGO-ADDICT.git
+```
+
+**3.** Navigate to the project directory :file_folder: .
+
+```
+cd ALGO-ADDICT
+
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/codeaholic-shub/ALGO-ADDICT
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Perfom your desired changes to the code base.
+
+<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
+
+**9.** Track your changes:heavy_check_mark: .
+
+```
+git add .
+```
+
+**10.** Commit your changes .
+
+```
+git commit -m "Relevant message"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create Pull Request`.
+
+**15** Voila! You have made a PR to the ALGO_ADDICT. Sit back patiently and relax while the your PR is reviewed.
+
+<p align="center"><img src="https://media.giphy.com/media/5mCQOcUfywmyI/giphy.gif" width=35%></p>
+
+In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com) via email !
+
+## 📌Till Then
+
+<p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
+<hr>
+ 
+ <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
-  <a href="https://github.com/RD191295/Qt_Core_Part_1/">
-    <img src="images/images.png" alt="Logo" width="80" height="80">
+
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
+    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="130px;"><br><sub><b> Arpit Jain </b></sub></a><br><a href="https://github.com/arpit456jain/ALGO-ADDICT/commits?author=arpit456jain" title="Code">💻 </a></td> </a></td>
+</tbody></table>
+
+<h1 align=center> Project Maintainers 😃 </h1>
+<p align="center">
+
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/JyotiKumari2"><img alt="" src="https://avatars.githubusercontent.com/JyotiKumari2" width="130px;"><br><sub><b> Jyoti Kumari </b></sub></a><br><a href="https://github.com/JyotiKumari2/ALGO-ADDICT/commits?author=JyotiKumari2" title="Code">💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/MrTwinkleSharma"><img alt="" src="https://avatars.githubusercontent.com/MrTwinkleSharma" width="130px;"><br><sub><b> Mr. Twinkle Sharma </b></sub></a><br><a href="https://github.com/MrTwinkleSharma/ALGO-ADDICT/commits?author=MrTwinkleSharma" title="Code">💻 </a></td></a></td>
+     <td align="center"><a href="https://github.com/RishikaGhosh"><img alt="" src="https://avatars.githubusercontent.com/RishikaGhosh" width="130px;"><br><sub><b>
+Rishika Ghosh  </b></sub></a><br><a href="https://github.com/RishikaGhosh/ALGO-ADDICT/commits?author=RishikaGhosh" title="Code">💻 </a></td></a></td>
+<td align="center"><a href="https://github.com/RounakNeogy"><img alt="" src="https://avatars.githubusercontent.com/RounakNeogy" width="130px;"><br><sub><b>
+Rounak Neogy  </b></sub></a><br><a href="https://github.com/RounakNeogy/ALGO-ADDICT/commits?author=RounakNeogy" title="Code">💻 </a></td></a></td>
+<td align="center"><a href="https://github.com/siddhi-244"><img alt="" src="https://avatars.githubusercontent.com/siddhi-244" width="130px;"><br><sub><b>
+Siddhi Bhanushali  </b></sub></a><br><a href="https://github.com/siddhi-244/ALGO-ADDICT/commits?author=siddhi-244" title="Code">💻 </a></td></a></td>
+
+  </tr>
+</tbody></table>
+
+<h2 align=center> ✨ Contributors </h2>
+
+Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
+
+<table>
+	<tr>
+		 <td>
+  <a href="https://github.com/codeaholic-shub/ALGO-ADDICT/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=codeaholic-shub/AlGO-ADDICT" />
   </a>
+		</td>
+	</tr>
+</table>
 
-  <h3 align="center">QtCore Basic</h3>
+## ✔️Code of Conduct
 
-  <p align="center">
-    Introduction to QtCore- Basic Tutorial
-  </p>
-  <p>
-  <br>
-    <a href="https://github.com/RD191295/Qt_Core_Part_1/issues">Report Bug or Question</a>
-  </br>
-</p>
+<p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
+## ✔️License
 
+<p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
+<hr>
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Qt](https://www.qt.io/)
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Go to [https://www.qt.io/download](Qt Website)
-2. Qt has two type of License:
-      1. Commercial - If you want to create Commerical Application This is best for you.
-      2. Opensource - GPL version 2,3 or LGPL version 3. For more Details Please Go through Qt website.
-4. Go Below and Click on Opensource version , that's what we will use here
-4. Create Account with Qt and sign in with Qt and select Qt 6.2.0 and Install same.
-5. After Installation it is ready for use.....Enjoy and learn New Thing!!!
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Forum](https://forum.qt.io/)_
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL 3.0 License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@Rd199245](https://twitter.com/Rd199245) - rajdalsaniya1995@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/raj-dalsaniya
+<h1 align=center>Happy Coding 👨‍💻 </h1>
