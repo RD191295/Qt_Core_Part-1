@@ -117,7 +117,7 @@ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
 <p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
 <hr>
  
- <h1 align=center> Project Admin ❤️ </h1>
+ <h1 align=center> Devlope By ❤️ </h1>
 <p align="center">
 
 <table>
@@ -143,18 +143,6 @@ Siddhi Bhanushali  </b></sub></a><br><a href="https://github.com/siddhi-244/ALGO
   </tr>
 </tbody></table>
 
-<h2 align=center> ✨ Contributors </h2>
-
-Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
-
-<table>
-	<tr>
-		 <td>
-  <a href="https://github.com/RD191295Qt_Core_Part_1/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=codeaholic-shub/AlGO-ADDICT" />
-  </a>
-		</td>
-	</tr>
 </table>
 
 ## ✔️Code of Conduct
