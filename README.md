@@ -163,7 +163,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 
 ## ✔️License
 
-<p align="center">Qt has Two License System - Commerical and GNU-2.0,3.0. Opensource Version(GNU-2.0/3.0) you can't use for Commerical Application</p>
+<p>Qt has Two License System - Commerical and GNU-2.0,3.0. Opensource Version(GNU-2.0/3.0) you can't use for Commerical Application</p>
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-qt.svg)](https://forthebadge.com)
 
