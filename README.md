@@ -36,8 +36,7 @@ Happy Learning :slightly_smiling_face:
 
 ## Introduction To Qt🏗
 
-Are we missing any of your questions, which you think you can add to it❓ We invite you to contribute to this project and make it better.
-To start contributing, follow the guidelines below:
+Qt is a widget toolkit for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows, macOS, Android or embedded systems with little or no change in the underlying codebase while still being a native application with native capabilities and speed.Qt is used for developing graphical user interfaces (GUIs) and multi-platform applications that run on all major desktop platforms and most mobile or embedded platforms. Most GUI programs created with Qt have a native-looking interface
 
 **1.** Fork [this](https://github.com/codeaholic-shub/ALGO-ADDICT) repository.
 
