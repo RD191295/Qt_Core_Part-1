@@ -150,7 +150,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 <table>
 	<tr>
 		 <td>
-  <a href="https://github.com/codeaholic-shub/ALGO-ADDICT/graphs/contributors">
+  <a href="https://github.com/RD191295Qt_Core_Part_1/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=codeaholic-shub/AlGO-ADDICT" />
   </a>
 		</td>
