@@ -25,8 +25,7 @@ Then, You got here right!!
 The main aim of the Tutorial is for bringing all Basic and important concept about QtCore-Basic in one Repo
 
 # Tech-Stack :
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Qt&logoColor=007396)<br>
+![Qt](https://img.shields.io/badge/-Java-333333?style=flat&logo=Qt&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)<br>
 
 # Contribution is fun! :green_heart:
