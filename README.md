@@ -1,0 +1,1 @@
+# Qt_Core_Part-1
