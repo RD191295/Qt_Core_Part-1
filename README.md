@@ -18,16 +18,7 @@
 
   <p align="center">
     Introduction to QtCore- Basic Tutorial
-    <br />
-    <a href="https://github.com/RD191295/Qt_Core_Part_1/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/RD191295/Qt_Core_Part_1/">View Demo</a>
-    ·
-    <a href="https://github.com/RD191295/Qt_Core_Part_1/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/RD191295/Qt_Core_Part_1/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/RD191295/Qt_Core_Part_1/issues">Report Bug or Question</a>
 </p>
 
 
