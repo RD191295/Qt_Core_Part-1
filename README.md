@@ -17,7 +17,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Introduction to QtCore- Basic Tutorial
     <br />
     <a href="https://github.com/RD191295/Qt_Core_Part_1/"><strong>Explore the docs »</strong></a>
     <br />
