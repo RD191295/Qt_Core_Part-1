@@ -1,6 +1,6 @@
 # 💻Introduction QtCore Basic🏆🏅
 
-![QtCore Basic](https://socialify.git.ci/codeaholic-shub/ALGO-ADDICT/image?description=1&descriptionEditable=Put%20Your%20Thoughts%20into%20code%F0%9F%92%99&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![QtCore Basic](https://socialify.git.ci/RD191295/Qt_Core_Part-1/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 🎯 Containing all popular competitive programming and interview questions.<br>
 🎯 Main aim for those students who are preparing for coding interviews.<br>
