@@ -122,7 +122,7 @@ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/RD191295/Qt_Core_Part-1"><img alt="" src="https://avatars.githubusercontent.com/RD191295" width="130px;"><br><sub><b> Raj Dalsaniya </b></sub></a><br><a href="https://github.com/RD191295/Qt_Core_Part-1/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
+    <td align="center"><a href="https://github.com/RD191295/Qt_Core_Part-1"><img alt="" src="https://avatars.githubusercontent.com/RD191295" width="130px;"><br><sub><b> Raj Dalsaniya </b></sub></a><br><a href="https://github.com/RD191295/Qt_Core_Part-1/commits?author=RD191295" title="Code">💻 </a></td> </a></td>
 
 </tbody></table>
 
