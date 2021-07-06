@@ -128,7 +128,7 @@ In case of any help, please free to contact [us](shubhankar.poddar789@gmail.com)
 
 ## ✔️Code of Conduct
 
-<p align="center"><a href="https://github.com/codeaholic-shub/ALGO-ADDICT/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+<p align="center"><a href="https://github.com/RD191295/Qt_Core_Part-1/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
 ## ✔️License
 
