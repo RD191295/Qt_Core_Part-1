@@ -2,19 +2,19 @@
 
 ![QtCore Basic](https://socialify.git.ci/RD191295/Qt_Core_Part-1/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1)
 
-🎯 Containing all popular competitive programming and interview questions.<br>
-🎯 Main aim for those students who are preparing for coding interviews.<br>
-🎯 If you practice coding on online platform , you can contribute to this repo.<br>
+🎯 This is First Step to Learn Qt--->One of best and widely use c++ framework to create cross compile application.<br>
+🎯 Main aim for these tutorial to learn Qt from very Basic.<br>
+🎯 This is Qtcore Basic Tutorial to learn Qt as Qt is very large Framework to learn<br>
 
-Are you a Newbie in programming and want to dive deep into it?
+Are you a Newbie in Qt/C++ programming and want to dive deep into it?
 
 <p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
 
-Are you looking for some famous coding interview questions in which each and every code will teach you an important Concept?
+Are you looking foor starting from basic to learn Qt very Efficently in which each and every code will teach you an important Concept?
 
 <p align="center"><img src="https://media.giphy.com/media/Uq4XZx6xm8bdVgrv9T/giphy.gif" width = 40%></p>
 
-Do you want to contribute to ALGO-ADDICT and showcase your programming skills through it?🤩
+Do you want to create Best and awasome Application?🤩
 
 <p align="center"><img src="https://media.giphy.com/media/3oEjI8vagntG7EDxgQ/giphy.gif" width = 40%></p>
 
