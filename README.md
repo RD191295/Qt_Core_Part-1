@@ -125,7 +125,7 @@ Distributed under the GPL 3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/RD191295) - rajdalsaniya1995@gmail.com
+Your Name - [@Rd199245](https://twitter.com/Rd199245) - rajdalsaniya1995@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
