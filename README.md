@@ -18,6 +18,8 @@
 
   <p align="center">
     Introduction to QtCore- Basic Tutorial
+  </p>
+  <p>
     <a href="https://github.com/RD191295/Qt_Core_Part_1/issues">Report Bug or Question</a>
 </p>
 
