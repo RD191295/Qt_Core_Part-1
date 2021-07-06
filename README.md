@@ -28,11 +28,11 @@ The main aim of the Tutorial is for bringing all Basic and important concept abo
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)<br>
 
-# Contribution is fun! :green_heart:
+# Learnin is fun! :green_heart:
 
-In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
+Let's Learn Qt From Basic and very Efficient Way!!!!!!!!!!!!!!!!!!!!
 
-Happy Submissions :slightly_smiling_face:
+Happy Learning :slightly_smiling_face:
 
 ## Contribution Guidelines🏗
 
