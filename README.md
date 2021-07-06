@@ -28,7 +28,7 @@ The main aim of the Tutorial is for bringing all Basic and important concept abo
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)<br>
 
-# Learnin is fun! :green_heart:
+# Learning is fun! :green_heart:
 
 Let's Learn Qt From Basic and very Efficient Way!!!!!!!!!!!!!!!!!!!!
 
