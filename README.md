@@ -1,6 +1,6 @@
 # 💻Introduction QtCore Basic🏆🏅
 
-![QtCore Basic](https://socialify.git.ci/RD191295/Qt_Core_Part-1/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![QtCore Basic](https://socialify.git.ci/RD191295/Qt_Core_Part-1/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1)
 
 🎯 Containing all popular competitive programming and interview questions.<br>
 🎯 Main aim for those students who are preparing for coding interviews.<br>
